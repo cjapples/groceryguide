@@ -1,2 +1,2 @@
-# inclusivetech
-Homepage for inclusive technology project.
+# GroceryVision
+A grocery shopping tool for blind and visually impaired people.
